@@ -1,6 +1,7 @@
 # OYO-PROJECT
 ### Project is deployed on Netlify
 > You can view this project on the follwoing link: https://zealous-shirley-afc987.netlify.app/
+> The main repository is in other team members github you can check:: https://github.com/jchy/OYO-Clone.git
 
 > It was a team project, We were a four member team
 ### Duration of the project
